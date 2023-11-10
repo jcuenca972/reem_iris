@@ -3,4 +3,4 @@ joblib
 numpy
 pandas
 altair
-Scikit-learn == 0.19
+Scikit-learn == 1.0.2
